@@ -35,3 +35,4 @@ housing-price-prediction/
 ├── outputs/
 ├── README.md
 ├── requirements.txt
+├── .gitignore
